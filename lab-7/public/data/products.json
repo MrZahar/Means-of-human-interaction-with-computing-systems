@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Super Healthy School Lunches",
+    "category": "Weekly plans",
+    "price": 49.99,
+    "image": "/images/Lunch2.png",
+    "description": "Five freshly cooked lunches for a full school week, with a hot meal and three healthy snacks.",
+    "ingredients": "Weekly rotating menu, vegetables, fruit and healthy snacks."
+  },
+  {
+    "id": 2,
+    "name": "Half Week Lunches",
+    "category": "Weekly plans",
+    "price": 29.99,
+    "image": "/images/lunch.png",
+    "description": "Three school lunches delivered on your chosen days.",
+    "ingredients": "Hot main dish, seasonal vegetables and three snacks."
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian Lunch",
+    "category": "Vegetarian",
+    "price": 9.99,
+    "image": "/images/vegetarian-lunch.png",
+    "description": "A balanced, meat-free school lunch.",
+    "ingredients": "Vegetables, grains and plant-based proteins."
+  },
+  {
+    "id": 4,
+    "name": "Fresh Fruit Lunch",
+    "category": "Vegetarian",
+    "price": 9.99,
+    "image": "/images/fruit-lunch.png",
+    "description": "A colorful lunch with seasonal fruit.",
+    "ingredients": "Fresh fruit, vegetables and a healthy main course."
+  },
+  {
+    "id": 5,
+    "name": "Sandwich Lunch",
+    "category": "Lunch boxes",
+    "price": 9.99,
+    "image": "/images/sandwich.png",
+    "description": "A ready-to-go lunch box for busy school days.",
+    "ingredients": "Sandwich, fruit, vegetables and snacks."
+  },
+  {
+    "id": 6,
+    "name": "Pasta Lunch",
+    "category": "Lunch boxes",
+    "price": 9.99,
+    "image": "/images/pasta.png",
+    "description": "Warm pasta and nutritious sides.",
+    "ingredients": "Pasta, vegetables and fruit."
+  }
+]
