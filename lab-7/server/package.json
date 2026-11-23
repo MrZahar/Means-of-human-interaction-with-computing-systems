@@ -1,0 +1,24 @@
+{
+  "name": "lab-7-pern-server",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "seed": "node seed.js",
+    "test": "node --test tests/*.test.js",
+    "images:local": "node update-product-images.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sequelize": "^6.37.7",
+    "pg": "^8.13.3",
+    "pg-hstore": "^2.3.4",
+    "dotenv": "^16.4.7",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
